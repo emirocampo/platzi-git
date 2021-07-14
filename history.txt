@@ -1,1 +1,3 @@
-ok iniciamos con git
+ok iniciamos con git, y ahora vamos a modificar esto.
+
+quiero aprender para ser un grande
